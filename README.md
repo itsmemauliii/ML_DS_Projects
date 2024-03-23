@@ -44,7 +44,7 @@ Welcome to the Interactive Recommendation System repository! This project aims t
 - Target Audience:- The target audience includes end users, platform owners, content providers, marketers and analysts, as well as developers and data scientists.
 
 ### 2. Technologies:-
-- Machine learning libraries like: TensorFlow, PyTorch, or Scikit-learn for model development.
+- Machine learning libraries like:- TensorFlow, PyTorch, or Scikit-learn for model development.
 
 - Additional tools:- Flask for backend API, React/Vue.js for frontend development.
 
