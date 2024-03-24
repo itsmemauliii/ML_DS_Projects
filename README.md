@@ -7,7 +7,7 @@ Welcome to the Interactive Recommendation System repository! This project aims t
 Recommendation systems are machine learning algorithms that use data to recommend items or content to users based on their preferences, past behavior, or their combination. These systems can recommend various items, such as movies, books, music, products, etc. 
 Different approaches to building recommender systems include collaborative filtering, content-based filtering, demographic-based filtering, utility-based filtering, knowledge-based filtering, and hybrid approaches. The ultimate goal of recommender systems is to help users find items they will likely enjoy and increase user engagement with the application or platform.
 ![image](https://github.com/itsmemauliii/ML_DS_Projects/assets/124795820/3ed38c48-98b1-4566-a445-1eba74f7dc7d)
-Absolutely correct! Content-based filtering is a fundamental technique in recommender systems that focuses on recommending items to users based on the characteristics of items they have interacted with previously. Here's a more detailed explanation of content-based filtering:
+Content-based filtering is a fundamental technique in recommender systems that focuses on recommending items to users based on the characteristics of items they have interacted with previously. Here's a more detailed explanation of content-based filtering:
 
 1. **Item Representation**: 
    - Each item is represented by a set of features or attributes. These features could include textual descriptions, categories, tags, metadata, or any other relevant information that describes the item.
